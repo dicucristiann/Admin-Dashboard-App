@@ -10,6 +10,9 @@
 <li>Hooks & Refs</li>
 <li>React Context API</li>
 
+### Print
+![image](https://user-images.githubusercontent.com/90745550/192945574-cbf1d5dd-c4bb-4317-92d8-5f78fe649650.png)
+
 ### It would be awesome if you could contribute!
 Follow these steps to fix a bug or enhance an existing module:
 
@@ -20,6 +23,13 @@ Follow these steps to fix a bug or enhance an existing module:
 - Commit your changes (`git commit -m 'Improve feature'`)
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request
+
+### Bug / Feature Request
+
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/dicucristiann/admin-dashboard-app/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/dicucristiann/admin-dashboard-app/issues/new). Please include sample queries and their corresponding results.
+
 
 ### Building with:
 [ReactJS](https://reactjs.org/) -  React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
