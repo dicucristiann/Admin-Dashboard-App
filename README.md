@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+## Admin Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>This project contains the fundamental concepts used in every real web project like:
+Responsive layout for (mobile, tablet, and desktop).
+React (Or any framework/library) to render changes efficient way.
+Folder & File Structure
+Hooks & Refs
+React Context API</h2>
 
-## Available Scripts
+### Building with:
+<p>ReactJS -  React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes</p>
 
-In the project directory, you can run:
 
-### `npm start`
+<p>Syncfusion - Syncfusion specializes in .NET, web, and mobile components for enterprise software including native Blazor and .NET MAUI, plus fast tools for Angular, React, & WinUI.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>Tailwind CSS - Tailwind CSS is a utility-first Cascading Style Sheets framework with predefined classes that you may use in your markup to build and design web pages. It allows you to write CSS in the form of predefined classes in your HTML.</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<ul>
+<p>The dashboard contains four useful apps.</p>
+<li>fully functional calendar</li>
+<li><em>'Kanban'</em> is similar to <em>Trello</em>or<em>Jira</em> </li>
+<li>text editor app</li>
+<li>color picker app</li>
+</ul>
 
-### `npm test`
+It also includes seven fully functional charts:
+Line, Area, Bar, Pie, Financial, Color-Mapping, and Pyramid.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
