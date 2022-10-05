@@ -1,30 +1,78 @@
-## Admin Dashboard
+<h2 align='center' >Admin Dashboard
+ - 
+<em>Ongoing Project</em>
+</h2>
 
-<h2>This project contains the fundamental concepts used in every real web project like:
-Responsive layout for (mobile, tablet, and desktop).
-React (Or any framework/library) to render changes efficient way.
-Folder & File Structure
-Hooks & Refs
-React Context API</h2>
+<h3>This project contains the fundamental concepts used in every real web project like:</h3>
+<li>Responsive layout for (mobile, tablet, and desktop).</li>
+<li>React (Or any framework/library) to render changes efficient way.</li>
+<li>Folder & File Structure</li>
+<li>Hooks & Refs</li>
+<li>React Context API</li>
+
+### Print
+![image](https://user-images.githubusercontent.com/90745550/192945574-cbf1d5dd-c4bb-4317-92d8-5f78fe649650.png)
+
+### It would be awesome if you could contribute!
+Follow these steps to fix a bug or enhance an existing module:
+
+- Fork the repo
+- Create a new branch (`git checkout -b improve-feature`)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (`git commit -m 'Improve feature'`)
+- Push to the branch (`git push origin improve-feature`)
+- Create a Pull Request
+
+### Bug / Feature Request
+
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/dicucristiann/admin-dashboard-app/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/dicucristiann/admin-dashboard-app/issues/new). Please include sample queries and their corresponding results.
+
 
 ### Building with:
-<p>ReactJS -  React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes</p>
+[ReactJS](https://reactjs.org/) -  React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
 
 
-<p>Syncfusion - Syncfusion specializes in .NET, web, and mobile components for enterprise software including native Blazor and .NET MAUI, plus fast tools for Angular, React, & WinUI.</p>
+[Syncfusion](https://www.syncfusion.com/react-components)  - Syncfusion specializes in .NET, web, and mobile components for enterprise software including native Blazor and .NET MAUI, plus fast tools for Angular, React, & WinUI.
 
-<p>Tailwind CSS - Tailwind CSS is a utility-first Cascading Style Sheets framework with predefined classes that you may use in your markup to build and design web pages. It allows you to write CSS in the form of predefined classes in your HTML.</p>
+[Tailwind CSS](https://tailwindcss.com/docs/guides/create-react-app)- Tailwind CSS is a utility-first Cascading Style Sheets framework with predefined classes that you may use in your markup to build and design web pages. It allows you to write CSS in the form of predefined classes in your HTML.
 
-<ul>
-<p>The dashboard contains four useful apps.</p>
-<li>fully functional calendar</li>
-<li><em>'Kanban'</em> is similar to <em>Trello</em>or<em>Jira</em> </li>
-<li>text editor app</li>
-<li>color picker app</li>
-</ul>
+<h3><strong>The dashboard contains four useful apps: </strong></h3>
 
-It also includes seven fully functional charts:
-Line, Area, Bar, Pie, Financial, Color-Mapping, and Pyramid.
+<table style="width:100%">
+  <tr>
+    <td>Fully functional calendar</td>
+    <td><strong>'Kanban'</strong> is similar to <strong>Trello</strong> or <strong>Jira</strong></td>
+    <td>Text editor app</td>
+    <td>Color Picker</td>
+  </tr>
+</table>
+
+<h3><strong>It also includes seven fully functional charts: </strong></h3>
+<table style="width:100%">
+  <tr>
+    <td>Line</td>
+    <td>Area</td>
+    <td>Bar</td>
+    <td>Pie</td>
+    <td>Financial</td>
+    <td>Color-Mapping</td>
+    <td>Pyramid</td>
+  </tr>
+</table>
+
+### Developer
+
+[Cristian Dicu](https://github.com/dicucristiann)
+
+Smash the star button
+<br />
+Leave a star if you liked the app!
+<br />
+<img src="https://c.tenor.com/1Ucwz9xKC94AAAAM/coach-josh-wood-coach-josh.gif" alt="⭐⭐⭐">
+
 
 
 
